@@ -15,7 +15,7 @@ public class BWTImplementaion {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        String str = "panamabanana";
+        String str = "joniyedismynickname";
         str = BWT(str);
         System.out.println("BWT transform is : "+str);
 

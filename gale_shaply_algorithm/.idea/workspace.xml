@@ -1,21 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef90b5aa-a975-4567-b6a2-a692f4adfb5c" name="Default Changelist" comment="" />
+    <list default="true" id="ef90b5aa-a975-4567-b6a2-a692f4adfb5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ContestsDemo/ContestsDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KMP_Pattern_Matching_Algorithm/KMP_Pattern_Matching_Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergSort/MergSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/QuickSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rod Cutting - old version/.idea/Rod Cutting - old version.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lps_table_generate/lps_table_generate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BWT implementaion/src/bwt/implementaion/BWTImplementaion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BWT implementaion/src/bwt/implementaion/BWTImplementaion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequnce/out/production/Longest Common Subsequnce/bd/edu/seu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Longest Common Subsequnce/out/production/Longest Common Subsequnce/bd/edu/seu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequnce/src/bd/edu/seu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Longest Common Subsequnce/src/bd/edu/seu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/src/longestcommonsubsequebnce/LongestCommonSubsequebnce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rod  Cutting Problem/out/production/Rod  Cutting Problem/bd/edu/seu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Rod  Cutting Problem/out/production/Rod  Cutting Problem/bd/edu/seu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rod  Cutting Problem/src/bd/edu/seu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rod  Cutting Problem/src/bd/edu/seu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gale_shaply_algorithm/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gale_shaply_algorithm/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Xe8XhjWJ6XeDEn2NhyGpVKMdU5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,6 +84,7 @@
       <workItem from="1581744842876" duration="980000" />
       <workItem from="1581756145668" duration="339000" />
       <workItem from="1581759464909" duration="10000" />
+      <workItem from="1593332533428" duration="1665000" />
     </task>
     <servers />
   </component>
@@ -62,21 +92,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="410" key="GridCell.Tab.0.bottom" timestamp="1581756484871">
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1593335999946">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="410" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1581756484871" />
-    <state width="1323" height="410" key="GridCell.Tab.0.center" timestamp="1581756484871">
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593335999946" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1593335999946">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="410" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1581756484871" />
-    <state width="1323" height="410" key="GridCell.Tab.0.left" timestamp="1581756484871">
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1593335999946" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1593335999946">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="410" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1581756484871" />
-    <state width="1323" height="410" key="GridCell.Tab.0.right" timestamp="1581756484871">
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1593335999946" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1593335999946">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="410" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1581756484871" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1593335999946" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1593335999947">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593335999947" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1593335999947">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1593335999947" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1593335999946">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1593335999946" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1593335999947">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1593335999947" />
   </component>
 </project>

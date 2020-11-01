@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a02ef210-eb53-41d6-8f6b-49ab88f0d47a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BWT implementaion/src/bwt/implementaion/BWTImplementaion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BWT implementaion/src/bwt/implementaion/BWTImplementaion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DefuseReflectionCalculat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DefuseReflectionCalculat/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DefuseReflectionCalculat/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DefuseReflectionCalculat/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequnce/out/production/Longest Common Subsequnce/bd/edu/seu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Longest Common Subsequnce/out/production/Longest Common Subsequnce/bd/edu/seu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Longest Common Subsequnce/src/bd/edu/seu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Longest Common Subsequnce/src/bd/edu/seu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequebnce/src/longestcommonsubsequebnce/LongestCommonSubsequebnce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MCMwithSequence/out/production/MCMwithSequence/bd/edu/seu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MCMwithSequence/out/production/MCMwithSequence/bd/edu/seu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MCMwithSequence/src/bd/edu/seu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MCMwithSequence/src/bd/edu/seu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rod  Cutting Problem/out/production/Rod  Cutting Problem/bd/edu/seu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Rod  Cutting Problem/out/production/Rod  Cutting Problem/bd/edu/seu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rod  Cutting Problem/src/bd/edu/seu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Rod  Cutting Problem/src/bd/edu/seu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Subset Sum Problem/out/production/Subset Sum Problem/bd/edu/seu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Subset Sum Problem/out/production/Subset Sum Problem/bd/edu/seu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Subset Sum Problem/src/bd/edu/seu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Subset Sum Problem/src/bd/edu/seu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gale_shaply_algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gale_shaply_algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gale_shaply_algorithm/out/production/gale_shaply_algorithm/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gale_shaply_algorithm/out/production/gale_shaply_algorithm/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gale_shaply_algorithm/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gale_shaply_algorithm/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Advanced Algorithm\Codes\EditDistance\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jePn6671WCipMI6TOzOY6i3EFJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="bd.edu.seu.Main" />
+      <module name="EditDistance" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a02ef210-eb53-41d6-8f6b-49ab88f0d47a" name="Default Changelist" comment="" />
+      <created>1604161747378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604161747378</updated>
+      <workItem from="1604161750122" duration="1714000" />
+      <workItem from="1604163588026" duration="162000" />
+      <workItem from="1604190340641" duration="337000" />
+      <workItem from="1604190956981" duration="1505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1604161990496">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1604161990496" />
+    <state width="1323" height="549" key="GridCell.Tab.0.bottom" timestamp="1604190678189">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="549" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604190678189" />
+    <state width="1323" height="549" key="GridCell.Tab.0.center" timestamp="1604190678189">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="549" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1604190678189" />
+    <state width="1323" height="549" key="GridCell.Tab.0.left" timestamp="1604190678189">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="549" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1604190678189" />
+    <state width="1323" height="549" key="GridCell.Tab.0.right" timestamp="1604190678189">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="549" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604190678189" />
+    <state x="0" y="11" key="SettingsEditor" timestamp="1604191987160">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604191987160" />
+    <state x="346" y="59" key="search.everywhere.popup" timestamp="1604162363078">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1604162363078" />
+  </component>
+</project>
